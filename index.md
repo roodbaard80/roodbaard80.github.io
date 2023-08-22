@@ -108,11 +108,11 @@ Honing uit eigen tuin
 
 ![bee_on_honeycomb_side](assets/images/bee_on_honeycomb_side.jpg)
 
-![bee_on_honeycomb_top](https://github.com/roodbaard80/roodbaard80.github.io/blob/main/assets/images/bee_on_honeycomb_top.jpg?raw=true)
+![bee_on_honeycomb_top](assets/images/bee_on_honeycomb_top.jpg)
 
-![honey_package](https://github.com/roodbaard80/roodbaard80.github.io/blob/main/assets/images/honeycomb.jpg)
+![honey_package](assets/images/honeycomb.jpg)
 
-![honeycomb](https://github.com/roodbaard80/roodbaard80.github.io/blob/1e34f8f0fe0cf3162995904d944c3f57a107908a/assets/images/honeycomb.jpg)
+![honeycomb](assets/images/honeycomb.jpg)
 
 
 
