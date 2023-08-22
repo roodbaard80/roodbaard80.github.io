@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![honeycomb_graphic] https://github.com/roodbaard80/roodbaard80.github.io/blob/main/pictures/honeycomb_graphic.jpg)
+![honeycomb_graphic] (https://github.com/roodbaard80/roodbaard80.github.io/blob/main/pictures/honeycomb_graphic.jpg)
 
 # Recepten
 
