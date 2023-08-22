@@ -2,11 +2,23 @@
 layout: default
 ---
 
-![honeycomb](assets/images/honeycomb.jpg)
-
 # Recepten
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+![honeycomb](assets/images/honeycomb.jpg)
+
+* * *
+
+## Honing
+
+**Honing uit eigen tuin**
+
+![bee_on_honeycomb_side](assets/images/bee_on_honeycomb_side.jpg)
+
+![bee_on_honeycomb_top](assets/images/bee_on_honeycomb_top.jpg)
+
+![honey_package](assets/images/honey_package.jpg)
 
 * * *
 
@@ -67,6 +79,8 @@ Bewaartip: Je kunt de lemon curd van tevoren bereiden en een week bewaren in de 
 
 **Vlierbloesemsiroop maken**
 
+![vlierbloesem](assets/images/elderflower.png)
+
 #### Ingrediënten
 
 * Tussen de 7-10 vlierbloesemschermen (een flinke pan vol)
@@ -98,24 +112,4 @@ Bewaartip: Je kunt de lemon curd van tevoren bereiden en een week bewaren in de 
 Doe de siroop heet in je schone flessen, en zet deze op een koele, donkere plek.
 De siroop is lang houdbaar. Mocht je je fles siroop van vorig jaar toch per ongeluk zijn vergeten dan kun je aan de geur merken of toch niet goed meer is. Maar het is zo lekker dat het waarschijnlijk niet zover zal komen!
 
-![vlierbloesem](assets/images/elderflower.png)
-
 * * *
-
-## Honing
-
-Honing uit eigen tuin
-
-![bee_on_honeycomb_side](assets/images/bee_on_honeycomb_side.jpg)
-
-![bee_on_honeycomb_top](assets/images/bee_on_honeycomb_top.jpg)
-
-![honey_package](assets/images/honey_package.jpg)
-
-
-
-
-
-* * *
-
-
