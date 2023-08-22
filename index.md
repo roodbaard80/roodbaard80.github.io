@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![honeycomb_graphic] https://github.com/roodbaard80/roodbaard80.github.io/blob/main/pictures/honeycomb_graphic.jpg
+![honeycomb_graphic] https://github.com/roodbaard80/roodbaard80.github.io/blob/main/pictures/honeycomb_graphic.jpg)
 
 # Recepten
 
@@ -106,13 +106,13 @@ De siroop is lang houdbaar. Mocht je je fles siroop van vorig jaar toch per onge
 
 Honing uit eigen tuin
 
-![bee_on_honeycomb_side](https://github.com/roodbaard80/roodbaard80.github.io/blob/main/pictures/bee_on_honeycomb_side.jpg
+![bee_on_honeycomb_side](https://github.com/roodbaard80/roodbaard80.github.io/blob/main/pictures/bee_on_honeycomb_side.jpg)
 
-![bee_on_honeycomb_top](https://github.com/roodbaard80/roodbaard80.github.io/blob/main/pictures/bee_on_honeycomb_top.jpg
+![bee_on_honeycomb_top](https://github.com/roodbaard80/roodbaard80.github.io/blob/main/pictures/bee_on_honeycomb_top.jpg)
 
-![honey_package](https://github.com/roodbaard80/roodbaard80.github.io/blob/main/pictures/honey_package.jpg
+![honey_package](https://github.com/roodbaard80/roodbaard80.github.io/blob/main/pictures/honey_package.jpg)
 
-![honeycomb](https://github.com/roodbaard80/roodbaard80.github.io/blob/main/pictures/honeycomb.jpg
+![honeycomb](https://github.com/roodbaard80/roodbaard80.github.io/blob/main/pictures/honeycomb.jpg)
 
 
 
