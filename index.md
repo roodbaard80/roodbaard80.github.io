@@ -106,14 +106,13 @@ De siroop is lang houdbaar. Mocht je je fles siroop van vorig jaar toch per onge
 
 Honing uit eigen tuin
 
-![bee_on_honeycomb_side](https://github.com/roodbaard80/roodbaard80.github.io/blob/main/pictures/bee_on_honeycomb_side.jpg)
+![bee_on_honeycomb_side](assets/images/bee_on_honeycomb_side.jpg)
 
-![bee_on_honeycomb_top](https://github.com/roodbaard80/roodbaard80.github.io/blob/main/pictures/bee_on_honeycomb_top.jpg)
+![bee_on_honeycomb_top](https://github.com/roodbaard80/roodbaard80.github.io/blob/main/assets/images/bee_on_honeycomb_top.jpg?raw=true)
 
-![honey_package](https://github.com/roodbaard80/roodbaard80.github.io/blob/main/pictures/honey_package.jpg)
+![honey_package](https://github.com/roodbaard80/roodbaard80.github.io/blob/main/assets/images/honeycomb.jpg)
 
-![honeycomb](https://github.com/roodbaard80/roodbaard80.github.io/blob/main/pictures/honeycomb.jpg)
-
+![honeycomb](https://github.com/roodbaard80/roodbaard80.github.io/blob/1e34f8f0fe0cf3162995904d944c3f57a107908a/assets/images/honeycomb.jpg)
 
 
 
