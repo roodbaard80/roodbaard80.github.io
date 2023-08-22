@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![honeycomb_graphic] (https://github.com/roodbaard80/roodbaard80.github.io/blob/main/pictures/honeycomb_graphic.jpg)
+![honeycomb](assets/images/honeycomb.jpg)
 
 # Recepten
 
@@ -14,7 +14,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 **recept voor bramenjam**
 
-![bramen](https://github.com/roodbaard80/roodbaard80.github.io/blob/main/pictures/blackberries.jpg)
+![bramen](assets/images/blackberries.jpg)
 
 #### ingrediënten
 
@@ -41,7 +41,7 @@ Bewaartip: Bewaar het overgebleven vanillestokje in een pot met suiker voor zelf
 
 **recept voor lemoncurd**
 
-![citroen](https://github.com/roodbaard80/roodbaard80.github.io/blob/main/pictures/lemon.jpg)
+![citroen](assets/images/lemon.jpg)
 
 #### ingrediënten
 
@@ -98,7 +98,7 @@ Bewaartip: Je kunt de lemon curd van tevoren bereiden en een week bewaren in de 
 Doe de siroop heet in je schone flessen, en zet deze op een koele, donkere plek.
 De siroop is lang houdbaar. Mocht je je fles siroop van vorig jaar toch per ongeluk zijn vergeten dan kun je aan de geur merken of toch niet goed meer is. Maar het is zo lekker dat het waarschijnlijk niet zover zal komen!
 
-![vlierbloesem](https://github.com/roodbaard80/roodbaard80.github.io/blob/main/pictures/elderflower.png)
+![vlierbloesem](assets/images/elderflower.png)
 
 * * *
 
@@ -110,9 +110,9 @@ Honing uit eigen tuin
 
 ![bee_on_honeycomb_top](assets/images/bee_on_honeycomb_top.jpg)
 
-![honey_package](assets/images/honeycomb.jpg)
+![honey_package](assets/images/honey_package.jpg)
 
-![honeycomb](assets/images/honeycomb.jpg)
+
 
 
 
