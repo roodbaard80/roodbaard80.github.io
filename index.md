@@ -4,7 +4,8 @@ layout: default
 
 # Recepten
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Dit is mijn website met recepten en informatie over mijn honingbijen.
+Als je meer informatie wil ben ik bereikbaar op info @ pimker.nl
 
 ![honeycomb](assets/images/honeycomb.jpg)
 
