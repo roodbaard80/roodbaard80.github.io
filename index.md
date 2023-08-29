@@ -31,22 +31,20 @@ Als je meer informatie wil ben ik bereikbaar op info @ pimker.nl
 
 #### ingrediënten
 
-* 1.3 kg bramen
+* 1,2 kg bramen
 * 1 citroen
 * 500 g geleisuiker speciaal
-* 1 vanillestokje
+* 2 tl vanille extract
 
 #### Bereidingswijze
 
-1. Halveer de grote bramen. Pers de citroen uit. Doe de bramen met de suiker en het citroensap in een pan met dikke bodem. Breng al roerend aan de kook op middelhoog vuur. Laat 3 min. flink doorkoken. Pas op voor spetters – houd kinderen uit de buurt van de pan. Verwijder schuim dat komt bovendrijven met een schuimspaan.
+1. Pers de citroen uit. Doe de bramen met de suiker, de vanille en het citroensap in een pan met dikke bodem. 
 
-2. Snijd ondertussen het vanillestokje open en schraap met een mespunt het merg eruit. Voeg het merg toe aan de kokende bramen en roer door.
+2. Breng al roerend aan de kook op middelhoog vuur. Laat 3 min. flink doorkoken. Verwijder schuim dat komt bovendrijven met een schuimspaan.
 
-3. Vul de potten met een soeplepel met de hete jam tot de rand en sluit direct af. Zet de potten op hun kop. De lucht wordt zo uit de pot gedrukt, waardoor de jam langer houdbaar blijft.
+3. Vul de potten met een soeplepel of trechter met de hete jam tot de rand en sluit direct af. Zet de potten op hun kop. De lucht wordt zo uit de pot gedrukt, waardoor de jam langer houdbaar blijft.
 
-Algemeen: Met 1,25 kg bramen maak je ca. 1,25 liter jam.
-Dieettip: De voedingswaarden voor dit recept zijn berekend per eetlepel jam.
-Bewaartip: Bewaar het overgebleven vanillestokje in een pot met suiker voor zelfgemaakte vanillesuiker
+Met 1,2 kg bramen maak je ongeveer 1,2 liter jam.
 
 * * *
 
