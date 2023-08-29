@@ -4,22 +4,11 @@ layout: default
 
 # Recepten
 
-Dit is mijn website met recepten en informatie over mijn honingbijen.
-Als je meer informatie wil ben ik bereikbaar op info @ pimker.nl
+Als je hier terecht bent gekomen heb je waarschijnlijk een potje of flesje met een zelfgemaakt brouwsel van me gekregen.
+Wellicht vond het het lekker en wil het het recept weten. Op deze website deel ik de recepten en informatie over mijn honingbijen.
+Fanmail of vragen mogen naar info @ pimker.nl
 
 ![honeycomb](assets/images/honeycomb.jpg)
-
-* * *
-
-## Honing
-
-**Honing uit eigen tuin**
-
-![bee_on_honeycomb_side](assets/images/bee_on_honeycomb_side.jpg)
-
-![bee_on_honeycomb_top](assets/images/bee_on_honeycomb_top.jpg)
-
-![honey_package](assets/images/honey_package.jpg)
 
 * * *
 
@@ -110,5 +99,17 @@ Bewaartip: Je kunt de lemon curd van tevoren bereiden en een week bewaren in de 
 
 Doe de siroop heet in je schone flessen, en zet deze op een koele, donkere plek.
 De siroop is lang houdbaar. Mocht je je fles siroop van vorig jaar toch per ongeluk zijn vergeten dan kun je aan de geur merken of toch niet goed meer is. Maar het is zo lekker dat het waarschijnlijk niet zover zal komen!
+
+* * *
+
+## Honing
+
+**Honing uit eigen tuin**
+
+![bee_on_honeycomb_side](assets/images/bee_on_honeycomb_side.jpg)
+
+![bee_on_honeycomb_top](assets/images/bee_on_honeycomb_top.jpg)
+
+![honey_package](assets/images/honey_package.jpg)
 
 * * *
