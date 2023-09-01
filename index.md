@@ -23,7 +23,8 @@ Fanmail of vragen mogen naar info @ pimker.nl
 * 1,2 kg bramen
 * 1 citroen
 * 500 g geleisuiker speciaal
-* 2 tl vanille extract
+* 1 tl vanille extract
+* lege jam potjes, schoongemaakt in de vaatwasser
 
 #### Bereidingswijze
 
@@ -32,8 +33,6 @@ Fanmail of vragen mogen naar info @ pimker.nl
 2. Breng al roerend aan de kook op middelhoog vuur. Laat 3 min. flink doorkoken. Verwijder schuim dat komt bovendrijven met een schuimspaan.
 
 3. Vul de potten met een soeplepel of trechter met de hete jam tot de rand en sluit direct af. Zet de potten op hun kop. De lucht wordt zo uit de pot gedrukt, waardoor de jam langer houdbaar blijft.
-
-Met 1,2 kg bramen maak je ongeveer 1,2 liter jam.
 
 * * *
 
