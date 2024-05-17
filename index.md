@@ -69,7 +69,8 @@ Bewaartip: Je kunt de lemon curd van tevoren bereiden en een week bewaren in de 
 ![vlierbloesem](assets/images/elderflower.png)
 
 #### Ingrediënten
-Dit recept is voor 1 liter siroop, vermenigvuldigen als je meerdere liters wilt maken.
+Deze ingrediënten zijn per 1 liter water, vermenigvuldigen als je meerdere liters wilt maken. Je krijgt hiermee ruim 1,5 liter siroop.
+* 1 liter water
 * 25 vlierbloesemschermen (of meer)
 * 1 kilo suiker
 * 1 citroen, gewassen en in plakken gesneden. Je kan ook limoenen gebruiken, afhankelijk van je voorkeur.
@@ -85,7 +86,7 @@ Dit recept is voor 1 liter siroop, vermenigvuldigen als je meerdere liters wilt 
 
 1. Pluk de vlierbloesem op een schone plek en schud de schermen uit om eventuele beestjes te verwijderen. Let op: was de schermen niet, daarmee was je veel van de smaak weg.
 
-2. Haal zoveel mogelijk van de stengels weg, deze kunnen een bittere smaak geven. Doe de bloesems samen met de citroen in een pan en voeg water toe. Zorg dat de vlierbloesems nét onder water staan.
+2. Haal zoveel mogelijk van de stengels weg, deze kunnen een bittere smaak geven. Doe de bloesems samen met de citroen in een pan en voeg het water toe. Zorg dat de vlierbloesems nét onder water staan.
 
 3. Laat dit 1 tot 2 dagen staan zodat de smaak in het water kan trekken.
 
