@@ -11,7 +11,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: '2',
-    name: 'Wilde Heide',
+    name: 'Wilde Heide bloem',
     description: 'Robuuste, donkere honing met een pittige, kruidige afdronk. Een ware delicatesse voor fijnproevers.',
     price: 14.50,
     image: 'https://picsum.photos/id/292/600/600',
